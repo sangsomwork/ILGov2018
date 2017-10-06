@@ -1,4 +1,4 @@
-Please 
+
 ## Welcome!
 This is the git for my contributions to the project to catalog and visualize contributions to 
 candidates in the Illinois 2018 governor's race (skirmer/ILGov2018)
